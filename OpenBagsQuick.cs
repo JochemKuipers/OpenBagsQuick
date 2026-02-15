@@ -68,8 +68,8 @@ namespace OpenBagsQuick
                 return;
             }
 
-            // Check if we're hovering over a valid inventory slot
-            if (_hoverContext != 0 || _hoverSlot < 0 || _hoverInv == null)
+            // Check if we're hovering over a valid inventory slot in the player's own inventory
+            if (_hoverContext != 0 || _hoverSlot < 0 || _hoverInv == null || _hoverInv != player.inventory)
                 return;
 
             var hoveredItem = _hoverInv[_hoverSlot];

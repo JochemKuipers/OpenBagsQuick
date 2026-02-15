@@ -1,3 +1,3 @@
 displayName = Open Bags Quick
 author = BanzaiBrotha
-version = 0.1
+version = 0.2

@@ -1,2 +1,2 @@
 Fork of https://steamcommunity.com/sharedfiles/filedetails/?id=2839969544&searchtext=BagOpener updated with some AI sorcery to make it work using tickrate of game instead of fixed speed. Now also works with modded bags again.
-THIS IS NOT MY ORIGINAL MOD. IF THE ORIGINAL CREATOR WANTS THIS DELISTED PLEASE PM ME.
+THIS IS NOT MY ORIGINAL MOD. POSTED WITH PERMISSION FROM ORIGINAL AUTHOR.
